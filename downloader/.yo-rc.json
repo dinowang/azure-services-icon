@@ -1,0 +1,11 @@
+{
+  "generator-gitignore-io": {
+    "options": [
+      "visualstudio",
+      "windows",
+      "visualstudiocode",
+      "macos",
+      "csharp"
+    ]
+  }
+}
