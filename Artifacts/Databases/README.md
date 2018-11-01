@@ -1,0 +1,13 @@
+﻿![Azure SQL Database](Azure SQL Database.svg)
+![Azure Cosmos DB](Azure Cosmos DB.svg)
+![SQL Data Warehouse](SQL Data Warehouse.svg)
+![Data Factory](Data Factory.svg)
+![Redis Cache](Redis Cache.svg)
+![SQL Server Stretch Database](SQL Server Stretch Database.svg)
+![SQL Server on Virtual Machines](SQL Server on Virtual Machines.svg)
+![Table Storage](Table Storage.svg)
+![Azure Database for PostgreSQL](Azure Database for PostgreSQL.svg)
+![Azure Database for MySQL](Azure Database for MySQL.svg)
+![Azure Database for MariaDB](Azure Database for MariaDB.svg)
+![Azure Database Migration Service](Azure Database Migration Service.svg)
+

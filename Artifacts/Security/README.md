@@ -1,0 +1,12 @@
+﻿![Security Information](Security Information.svg)
+![Security Center](Security Center.svg)
+![Key Vault](Key Vault.svg)
+![Azure DDoS protection](Azure DDoS protection.svg)
+![Azure Advanced Threat Protection](Azure Advanced Threat Protection.svg)
+![Azure Information Protection](Azure Information Protection.svg)
+![Azure Active Directory](Azure Active Directory.svg)
+![Azure Active Directory for Domain Services](Azure Active Directory for Domain Services.svg)
+![Application Gateway](Application Gateway.svg)
+![VPN Gateway](VPN Gateway.svg)
+![Role-based access control](Role-based access control.svg)
+
