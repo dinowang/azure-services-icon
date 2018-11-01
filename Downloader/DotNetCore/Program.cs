@@ -41,7 +41,7 @@ namespace downloader
                             .SelectMany(x => x.Products)
                             .OrderBy(x => x.Group);
 
-            var basePath = @"../";
+            var basePath = @"../../Artifacts/";
 
             foreach (var product in products)
             {
