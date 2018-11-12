@@ -63,7 +63,10 @@ namespace downloader
                 }
                 
                 var url = $"https://dinowang.github.io/azure-services-icon/Artifacts/{WebUtility.UrlEncode(product.Group)}/{WebUtility.UrlEncode(product.Name)}.svg";
-                docs[product.Group].AppendLine($"**{product.Name}**").AppendLine($"![{product.Name}]({url})");
+                docs[product.Group]
+                    .AppendLine($"**{product.Name}**")
+                    .AppendLine($"![{product.Name}]({url})")
+                    .AppendLine("");
 
                 using (var svgStream = client.GetStreamAsync(product.Image).Result)
                 using (var output = new FileStream(svgFile, FileMode.Create, FileAccess.ReadWrite))

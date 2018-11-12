@@ -18,6 +18,8 @@
 ![File Storage](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/File+Storage.svg)
 **Data Box**
 ![Data Box](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Data+Box.svg)
+**Avere vFXT**
+![Avere vFXT](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Avere+vFXT.svg)
 **Storage Explorer**
 ![Storage Explorer](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Storage+Explorer.svg)
 **Archive Storage**
