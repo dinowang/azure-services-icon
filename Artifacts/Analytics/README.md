@@ -43,7 +43,10 @@
 **Data Catalog**
 ![Data Catalog](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Data+Catalog.svg)
 
-**Data Lake Store**
-![Data Lake Store](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Data+Lake+Store.svg)
+**Data Lake Storage Gen2**
+![Data Lake Storage Gen2](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Data+Lake+Storage+Gen2.svg)
+
+**Data Lake Storage Gen1**
+![Data Lake Storage Gen1](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Data+Lake+Storage+Gen1.svg)
 
 

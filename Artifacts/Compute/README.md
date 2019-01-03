@@ -16,9 +16,6 @@
 **Azure Container Instances**
 ![Azure Container Instances](https://dinowang.github.io/azure-services-icon/Artifacts/Compute/Azure+Container+Instances.svg)
 
-**Azure Batch AI**
-![Azure Batch AI](https://dinowang.github.io/azure-services-icon/Artifacts/Compute/Azure+Batch+AI.svg)
-
 **Service Fabric**
 ![Service Fabric](https://dinowang.github.io/azure-services-icon/Artifacts/Compute/Service+Fabric.svg)
 

@@ -1,6 +1,7 @@
+# File created using '.gitignore Generator' for Visual Studio Code: https://bit.ly/vscode-gig
 
-# Created by https://www.gitignore.io/api/visualstudio,windows,visualstudiocode,macos,csharp
-# Edit at https://www.gitignore.io/?templates=visualstudio,windows,visualstudiocode,macos,csharp
+# Created by https://www.gitignore.io/api/csharp,macos,visualstudio,visualstudiocode,windows
+# Edit at https://www.gitignore.io/?templates=csharp,macos,visualstudio,visualstudiocode,windows
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -25,6 +26,8 @@
 [Rr]eleases/
 x64/
 x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -214,7 +217,7 @@ _pkginfo.txt
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
-!*.[Cc]ache/
+!?*.[Cc]ache/
 
 # Others
 ClientBin/
@@ -234,6 +237,8 @@ orleans.codegen.cs
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
+# ASP.NET Core default setup: bower directory is configured as wwwroot/lib/ and bower restore is true
+**/wwwroot/lib/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -338,6 +343,9 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
+# BeatPulse healthcheck temp database
+healthchecksdb
+
 ### macOS ###
 # General
 .DS_Store
@@ -372,6 +380,10 @@ Temporary Items
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
 
 ### Windows ###
 # Windows thumbnail cache files
@@ -500,6 +512,7 @@ $RECYCLE.BIN/
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
+# ASP.NET Core default setup: bower directory is configured as wwwroot/lib/ and bower restore is true
 
 # RIA/Silverlight projects
 
@@ -557,4 +570,9 @@ $RECYCLE.BIN/
 
 # Local History for Visual Studio
 
-# End of https://www.gitignore.io/api/visualstudio,windows,visualstudiocode,macos,csharp
+# BeatPulse healthcheck temp database
+
+# End of https://www.gitignore.io/api/csharp,macos,visualstudio,visualstudiocode,windows
+
+# Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
+

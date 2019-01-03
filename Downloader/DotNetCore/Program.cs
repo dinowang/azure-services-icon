@@ -23,22 +23,27 @@ namespace downloader
             var doc = new HtmlDocument();
             doc.Load(index, Encoding.UTF8);
 
-            var products = doc
+            var headers = doc
                             .DocumentNode
-                            .CssSelect("#products ul#all div.group h3")
+                            .CssSelect("#products ul#all div.group h3");
+
+            var groups = headers                            
                             .Select(x => new 
                             { 
                                 Group = x.InnerHtml, 
-                                Products = x.NextSibling
-                                            .NextSibling
+                                Products = x.GetNextSibling("ul")
                                             .CssSelect("li")
                                             .Select(i => new
                                             {
                                                 Group = x.InnerHtml, 
                                                 Name = WebUtility.HtmlEncode(i.InnerText.Trim(new[] { ' ', '\n', '\r' }).Replace("  ", " ")), 
-                                                Image = i.CssSelect("img").FirstOrDefault().Attributes["src"].Value 
+                                                Image = i.CssSelect("img").FirstOrDefault()?.Attributes["src"]?.Value
                                             })
-                            })
+                                            .Where(i => ! string.IsNullOrEmpty(i.Image))
+                                            .ToList()
+                            });
+
+            var products = groups
                             .SelectMany(x => x.Products)
                             .OrderBy(x => x.Group);
 

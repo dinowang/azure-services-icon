@@ -10,7 +10,4 @@
 **Event Grid**
 ![Event Grid](https://dinowang.github.io/azure-services-icon/Artifacts/Integration/Event+Grid.svg)
 
-**Biztalk Services**
-![Biztalk Services](https://dinowang.github.io/azure-services-icon/Artifacts/Integration/Biztalk+Services.svg)
-
 

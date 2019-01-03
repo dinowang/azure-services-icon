@@ -7,8 +7,8 @@
 **Key Vault**
 ![Key Vault](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Key+Vault.svg)
 
-**Azure DDoS protection**
-![Azure DDoS protection](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+DDoS+protection.svg)
+**Azure Dedicated HSM**
+![Azure Dedicated HSM](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+Dedicated+HSM.svg)
 
 **Azure Advanced Threat Protection**
 ![Azure Advanced Threat Protection](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+Advanced+Threat+Protection.svg)

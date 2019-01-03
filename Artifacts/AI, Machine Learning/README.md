@@ -1,9 +1,6 @@
 ﻿**Azure Databricks**
 ![Azure Databricks](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Databricks.svg)
 
-**Azure Batch AI**
-![Azure Batch AI](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Batch+AI.svg)
-
 **Azure Bot Service**
 ![Azure Bot Service](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Bot+Service.svg)
 

@@ -10,8 +10,8 @@
 **Data Factory**
 ![Data Factory](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Data+Factory.svg)
 
-**Redis Cache**
-![Redis Cache](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Redis+Cache.svg)
+**Azure Cache for Redis**
+![Azure Cache for Redis](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Azure+Cache+for+Redis.svg)
 
 **SQL Server Stretch Database**
 ![SQL Server Stretch Database](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/SQL+Server+Stretch+Database.svg)
