@@ -55,4 +55,7 @@
 **API Management**
 ![API Management](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/API+Management.svg)
 
+**Azure Sphere**
+![Azure Sphere](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/Azure+Sphere.svg)
+
 

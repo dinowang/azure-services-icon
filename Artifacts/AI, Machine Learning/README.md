@@ -16,6 +16,9 @@
 **Cognitive Services**
 ![Cognitive Services](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Cognitive+Services.svg)
 
+**Azure Notebooks**
+![Azure Notebooks](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Notebooks.svg)
+
 **Azure Search**
 ![Azure Search](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Search.svg)
 
