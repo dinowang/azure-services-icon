@@ -1,5 +1,5 @@
-﻿**IoT Fundamentals**
-![IoT Fundamentals](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/IoT+Fundamentals.svg)
+﻿**Azure IoT**
+![Azure IoT](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/Azure+IoT.svg)
 
 **IoT Central**
 ![IoT Central](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/IoT+Central.svg)
