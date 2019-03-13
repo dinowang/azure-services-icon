@@ -31,4 +31,7 @@
 **Role-based access control**
 ![Role-based access control](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Role-based+access+control.svg)
 
+**Azure Sentinel**
+![Azure Sentinel](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+Sentinel.svg)
+
 
