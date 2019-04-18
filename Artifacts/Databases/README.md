@@ -10,6 +10,9 @@
 **Data Factory**
 ![Data Factory](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Data+Factory.svg)
 
+**Azure Data Explorer**
+![Azure Data Explorer](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Azure+Data+Explorer.svg)
+
 **Azure Cache for Redis**
 ![Azure Cache for Redis](https://dinowang.github.io/azure-services-icon/Artifacts/Databases/Azure+Cache+for+Redis.svg)
 

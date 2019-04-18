@@ -34,8 +34,8 @@
 **Azure Service Health**
 ![Azure Service Health](https://dinowang.github.io/azure-services-icon/Artifacts/Management+Tools/Azure+Service+Health.svg)
 
-**Microsoft Azure Portal**
-![Microsoft Azure Portal](https://dinowang.github.io/azure-services-icon/Artifacts/Management+Tools/Microsoft+Azure+Portal.svg)
+**Azure portal**
+![Azure portal](https://dinowang.github.io/azure-services-icon/Artifacts/Management+Tools/Azure+portal.svg)
 
 **Azure Resource Manager**
 ![Azure Resource Manager](https://dinowang.github.io/azure-services-icon/Artifacts/Management+Tools/Azure+Resource+Manager.svg)

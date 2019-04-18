@@ -34,4 +34,7 @@
 **Azure Sentinel**
 ![Azure Sentinel](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+Sentinel.svg)
 
+**Azure Security Center for IoT**
+![Azure Security Center for IoT](https://dinowang.github.io/azure-services-icon/Artifacts/Security/Azure+Security+Center+for+IoT.svg)
+
 
