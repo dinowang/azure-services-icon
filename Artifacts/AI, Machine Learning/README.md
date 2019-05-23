@@ -127,4 +127,7 @@
 **Bing Image Search API**
 ![Bing Image Search API](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Bing+Image+Search+API.svg)
 
+**Open Datasets**
+![Open Datasets](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Open+Datasets.svg)
+
 

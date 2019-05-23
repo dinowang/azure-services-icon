@@ -37,4 +37,7 @@
 **CycleCloud**
 ![CycleCloud](https://dinowang.github.io/azure-services-icon/Artifacts/Compute/CycleCloud.svg)
 
+**Azure VMware Solution by CloudSimple**
+![Azure VMware Solution by CloudSimple](https://dinowang.github.io/azure-services-icon/Artifacts/Compute/Azure+VMware+Solution+by+CloudSimple.svg)
+
 
