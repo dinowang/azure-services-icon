@@ -10,6 +10,9 @@
 **IoT Edge**
 ![IoT Edge](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/IoT+Edge.svg)
 
+**IoT Plug and Play**
+![IoT Plug and Play](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/IoT+Plug+and+Play.svg)
+
 **IoT solution accelerators**
 ![IoT solution accelerators](https://dinowang.github.io/azure-services-icon/Artifacts/Internet+of+Things/IoT+solution+accelerators.svg)
 

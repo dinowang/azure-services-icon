@@ -10,6 +10,9 @@
 **Container Instances**
 ![Container Instances](https://dinowang.github.io/azure-services-icon/Artifacts/Containers/Container+Instances.svg)
 
+**Cognitive Services**
+![Cognitive Services](https://dinowang.github.io/azure-services-icon/Artifacts/Containers/Cognitive+Services.svg)
+
 **Service Fabric**
 ![Service Fabric](https://dinowang.github.io/azure-services-icon/Artifacts/Containers/Service+Fabric.svg)
 

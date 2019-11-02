@@ -1,26 +1,20 @@
-﻿**Azure Databricks**
-![Azure Databricks](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Databricks.svg)
-
-**Azure Bot Service**
-![Azure Bot Service](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Bot+Service.svg)
-
-**Microsoft Genomics**
-![Microsoft Genomics](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Microsoft+Genomics.svg)
-
-**Machine Learning Services**
-![Machine Learning Services](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Machine+Learning+Services.svg)
-
-**Machine Learning Studio**
-![Machine Learning Studio](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Machine+Learning+Studio.svg)
+﻿**Machine Learning service**
+![Machine Learning service](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Machine+Learning+service.svg)
 
 **Cognitive Services**
 ![Cognitive Services](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Cognitive+Services.svg)
 
-**Azure Notebooks**
-![Azure Notebooks](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Notebooks.svg)
+**Azure Bot Service**
+![Azure Bot Service](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Bot+Service.svg)
 
 **Azure Search**
 ![Azure Search](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Azure+Search.svg)
+
+**Open Datasets**
+![Open Datasets](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Open+Datasets.svg)
+
+**Machine Learning Studio**
+![Machine Learning Studio](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Machine+Learning+Studio.svg)
 
 **Computer Vision API**
 ![Computer Vision API](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Computer+Vision+API.svg)
@@ -126,8 +120,5 @@
 
 **Bing Image Search API**
 ![Bing Image Search API](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Bing+Image+Search+API.svg)
-
-**Open Datasets**
-![Open Datasets](https://dinowang.github.io/azure-services-icon/Artifacts/AI+%2B+Machine+Learning/Open+Datasets.svg)
 
 

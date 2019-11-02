@@ -19,4 +19,7 @@
 **Blockchain Workbench**
 ![Blockchain Workbench](https://dinowang.github.io/azure-services-icon/Artifacts/Developer+Tools/Blockchain+Workbench.svg)
 
+**App Configuration**
+![App Configuration](https://dinowang.github.io/azure-services-icon/Artifacts/Developer+Tools/App+Configuration.svg)
+
 

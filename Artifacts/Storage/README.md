@@ -31,6 +31,9 @@
 **Avere vFXT**
 ![Avere vFXT](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Avere+vFXT.svg)
 
+**Azure FXT Edge Filer**
+![Azure FXT Edge Filer](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Azure+FXT+Edge+Filer.svg)
+
 **Storage Explorer**
 ![Storage Explorer](https://dinowang.github.io/azure-services-icon/Artifacts/Storage/Storage+Explorer.svg)
 

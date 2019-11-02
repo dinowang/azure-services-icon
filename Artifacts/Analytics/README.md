@@ -49,7 +49,7 @@
 **Data Lake Storage Gen1**
 ![Data Lake Storage Gen1](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Data+Lake+Storage+Gen1.svg)
 
-**Open Datasets**
-![Open Datasets](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Open+Datasets.svg)
+**Azure Data Share**
+![Azure Data Share](https://dinowang.github.io/azure-services-icon/Artifacts/Analytics/Azure+Data+Share.svg)
 
 

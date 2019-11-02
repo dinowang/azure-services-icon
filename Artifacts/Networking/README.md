@@ -37,4 +37,10 @@
 **Azure Front Door Service**
 ![Azure Front Door Service](https://dinowang.github.io/azure-services-icon/Artifacts/Networking/Azure+Front+Door+Service.svg)
 
+**Azure Bastion**
+![Azure Bastion](https://dinowang.github.io/azure-services-icon/Artifacts/Networking/Azure+Bastion.svg)
+
+**Azure Private Link**
+![Azure Private Link](https://dinowang.github.io/azure-services-icon/Artifacts/Networking/Azure+Private+Link.svg)
+
 
