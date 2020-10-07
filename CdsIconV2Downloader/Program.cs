@@ -18,7 +18,7 @@ namespace CdsIconV2Downloader
             var result = await client.GetStringAsync("https://iconcloud.design/api/iconlibraryfont/masterfontinfos");
             var iconSets = JsonSerializer.Deserialize<IconSet[]>(result).Where(x => x.name == "Azure Icons");
 
-            var outputBaseDir = Path.Combine("..", "CdsIconV2-Output");
+            var outputBaseDir = Path.Combine("..", "Icons");
 
             if (Directory.Exists(outputBaseDir))
             {

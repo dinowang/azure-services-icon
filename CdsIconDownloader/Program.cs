@@ -32,7 +32,7 @@ namespace CdsIconDownloader
 
             var model = JsonSerializer.Deserialize<Models.Services>(servicesJson, options);
 
-            var basePath = Path.Combine("..", "CdsIconDownloader-Output");
+            var basePath = Path.Combine("..", "Icons");
 
             model.ToList().ForEach(x =>
             {

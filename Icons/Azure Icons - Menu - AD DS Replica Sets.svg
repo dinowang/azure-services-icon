@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <defs>
+    <linearGradient id="a1416fd0-a535-49d6-a2cf-809f320dc3ae" x1="13.048" y1="12.173" x2="7.734" y2="2.107" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#773adc" />
+      <stop offset="0.9" stop-color="#a67af4" />
+    </linearGradient>
+    <linearGradient id="bc1f465b-efb2-4896-8651-12841af76396" x1="12.409" y1="12.201" x2="14.604" y2="15.612" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#a67af4" />
+      <stop offset="0.88" stop-color="#773adc" />
+    </linearGradient>
+  </defs>
+  <g id="fea5f964-1de2-4fe3-8eff-8d84b03df4d2">
+    <g>
+      <polygon points="1.742 10.246 9.321 15.165 17.033 10.227 18 11.347 9.321 16.945 0.775 11.356 1.742 10.246" fill="#50e6ff" />
+      <polygon points="2.316 9.614 9.321 1.27 16.469 9.624 9.321 14.141 2.316 9.614" fill="#fff" />
+      <polygon points="9.321 1.27 9.321 14.141 2.316 9.614 9.321 1.27" fill="#50e6ff" />
+      <polygon points="9.321 1.27 9.321 14.141 16.469 9.624 9.321 1.27" fill="url(#a1416fd0-a535-49d6-a2cf-809f320dc3ae)" />
+      <polygon points="9.324 7.917 16.47 9.628 9.317 14.137 9.324 7.917" fill="#a67af4" />
+      <polygon points="9.321 14.141 2.316 9.614 9.321 7.921 9.321 14.141" fill="#9cebff" />
+      <polygon points="9.321 16.945 18 11.347 17.033 10.227 9.321 15.165 9.321 16.945" fill="url(#bc1f465b-efb2-4896-8651-12841af76396)" />
+    </g>
+    <polygon points="9.327 16.62 0.898 10.939 9.421 1.586 9.327 16.62" fill="#fff" opacity="0.9" />
+    <path d="M9.777,17.087.664,11.22,9.777.628ZM1.736,11.065l7.33,4.719V2.544Z" fill="#9cebff" />
+    <path d="M1.2,12.441a1.2,1.2,0,1,1,1.2-1.2,1.2,1.2,0,0,1-1.2,1.2ZM9.421,17.82a1.2,1.2,0,1,1,1.2-1.2,1.2,1.2,0,0,1-1.2,1.2ZM8.153,1.38h0a1.2,1.2,0,1,1,1.2,1.2A1.2,1.2,0,0,1,8.153,1.38Z" fill="#50e6ff" />
+  </g>
+</svg>

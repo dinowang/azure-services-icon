@@ -34,7 +34,7 @@ namespace ServiceMapCrawler
 
             var model = JsonSerializer.Deserialize<Models.Services>(servicesJson, options);
 
-            var basePath = Path.Combine("..", "ServiceMapCrawler-Output");
+            var basePath = Path.Combine("..", "Icons");
 
             model.ToList().ForEach(x =>
             {
