@@ -22,7 +22,7 @@ namespace CdsIconV2Downloader
 
             if (Directory.Exists(outputBaseDir))
             {
-                Directory.Delete(outputBaseDir);
+                Directory.Delete(outputBaseDir, true);
             }
             Directory.CreateDirectory(outputBaseDir);
 
@@ -30,17 +30,15 @@ namespace CdsIconV2Downloader
             {
                 foreach (var collection in iconSet.collectionMetadata.Where(x => x.iconCount > 0))
                 {
-                    //collection.Dump();
                     var qb = new QueryBuilder();
                     qb.Add("masterFontName", iconSet.name);
                     qb.Add("fontName", collection.name);
 
-                    Console.WriteLine(qb.ToQueryString());
+                    // Console.WriteLine(qb.ToQueryString());
 
                     result = await client.GetStringAsync($"https://iconcloud.design/api/iconlibraryfont/font" + qb.ToQueryString());
 
                     var library = JsonSerializer.Deserialize<IconLibary>(result);
-                    //library.Dump();
 
                     foreach (var icon in library.icons.Where(x => !string.IsNullOrEmpty(x.svgXml)))
                     {

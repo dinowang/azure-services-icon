@@ -1,2 +1,3 @@
 @echo off
-dotnet run --project ./Downloader/DotNetCore
+cd CdsIconV2Downloader
+dotnet run 
