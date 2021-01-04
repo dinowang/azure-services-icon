@@ -1,25 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
   <defs>
-    <linearGradient id="bfc3dcc1-03b5-4ce4-8e85-34b9459a763b" x1="9" y1="13.025" x2="9" y2="0.278" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0078d4" />
-      <stop offset="1" stop-color="#5ea0ef" />
-    </linearGradient>
-    <linearGradient id="b6305187-9b8b-4402-92c7-bf76bab01970" x1="8.652" y1="8.079" x2="8.652" y2="4.751" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#32bedd" />
-      <stop offset="0.4" stop-color="#43d5f1" />
-      <stop offset="0.7" stop-color="#4de2fb" />
-      <stop offset="1" stop-color="#50e6ff" />
+    <linearGradient id="b5d38d74-7c0f-44df-bd91-7a8a2543ce78" x1="6.154" y1="782.955" x2="6.154" y2="786.91" gradientTransform="matrix(1, 0, 0, -1, 0, 791.516)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#198ab3" />
+      <stop offset="0.16" stop-color="#1f9ac2" />
+      <stop offset="0.5" stop-color="#29bade" />
+      <stop offset="0.8" stop-color="#30cdef" />
+      <stop offset="1" stop-color="#32d4f5" />
     </linearGradient>
   </defs>
-  <path d="M13.022,16.764c-2.09-.28-2.055-1.624-2.045-3.8H7.061c.01,2.179.045,3.523-2.046,3.8a1.066,1.066,0,0,0-.984.958h9.981A1.072,1.072,0,0,0,13.022,16.764Z" fill="#005ba1" />
-  <rect y="0.278" width="18" height="12.747" rx="0.61" fill="url(#bfc3dcc1-03b5-4ce4-8e85-34b9459a763b)" />
-  <ellipse cx="8.652" cy="6.415" rx="1.658" ry="1.664" fill="url(#b6305187-9b8b-4402-92c7-bf76bab01970)" />
-  <ellipse cx="13.293" cy="3.814" rx="0.81" ry="0.816" fill="#c3f1ff" />
-  <ellipse cx="13.293" cy="6.479" rx="0.81" ry="0.816" fill="#c3f1ff" />
-  <ellipse cx="13.293" cy="9.137" rx="0.81" ry="0.816" fill="#c3f1ff" />
-  <ellipse cx="11.444" cy="5.178" rx="0.81" ry="0.816" fill="#9cebff" />
-  <ellipse cx="11.444" cy="7.843" rx="0.81" ry="0.816" fill="#9cebff" />
-  <path d="M4.8,4.33a.147.147,0,0,1,.057-.051L8.569,2.118c.051,0,3.188,1.772,3.188,1.772a.154.154,0,0,0,.209-.056.165.165,0,0,0,.02-.078V3.061a.154.154,0,0,0-.076-.134S8.62,1.066,8.575,1.091l-4.6,2.64-.07.051Z" fill="#e6e6e6" />
-  <path d="M11.744,9.15,8.722,10.89a.206.206,0,0,1-.07,0v1.021a.138.138,0,0,0,.07,0l3.188-1.824a.152.152,0,0,0,.076-.127V9.284a.153.153,0,0,0-.242-.134Z" fill="#e6e6e6" />
-  <path d="M8.652,10.91a.231.231,0,0,1-.083,0L4.858,8.723A.142.142,0,0,1,4.782,8.6V4.406a.163.163,0,0,1,0-.076L3.9,3.782a.167.167,0,0,0,0,.083V9.137a.153.153,0,0,0,.07.134l4.6,2.64a.167.167,0,0,0,.077,0Z" fill="#fff" />
+  <g id="b94c71a2-53f7-4a99-bc5e-7a69d0d9dd24">
+    <g>
+      <g>
+        <path d="M13.022,16.764c-2.09-.28-2.055-1.624-2.045-3.8H7.061c.01,2.179.045,3.523-2.046,3.8a1.066,1.066,0,0,0-.984.958h9.981A1.072,1.072,0,0,0,13.022,16.764Z" fill="#1f56a3" />
+        <rect y="0.278" width="18" height="12.747" rx="0.61" fill="#1490df" />
+        <rect x="1.037" y="1.265" width="15.901" height="10.576" rx="0.305" fill="#fff" />
+      </g>
+      <g>
+        <ellipse cx="6.154" cy="6.58" rx="1.966" ry="1.974" fill="url(#b5d38d74-7c0f-44df-bd91-7a8a2543ce78)" />
+        <ellipse cx="11.66" cy="3.494" rx="0.961" ry="0.968" fill="#32bedd" />
+        <ellipse cx="11.66" cy="6.655" rx="0.961" ry="0.968" fill="#32bedd" />
+        <ellipse cx="11.66" cy="9.809" rx="0.961" ry="0.968" fill="#32bedd" />
+        <ellipse cx="9.467" cy="5.112" rx="0.961" ry="0.968" fill="#50e6ff" />
+        <ellipse cx="9.467" cy="8.274" rx="0.961" ry="0.968" fill="#50e6ff" />
+      </g>
+    </g>
+  </g>
 </svg>
