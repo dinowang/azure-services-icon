@@ -7,8 +7,6 @@
       <stop offset="1" stop-color="#979797" />
     </linearGradient>
   </defs>
-  <title>00xxx-icon-menu-servers</title>
-  <rect x="-746.639" y="-592.013" width="1991.957" height="1767.411" fill="#fff" stroke="#000" stroke-miterlimit="10" stroke-width="1.302" />
   <g>
     <path d="M14.843,17.39a.644.644,0,0,1-.674.61H3.831a.644.644,0,0,1-.674-.61V.61A.644.644,0,0,1,3.831,0H14.169a.644.644,0,0,1,.674.61Z" fill="url(#ae3fd682-b32d-4d4f-b2be-baa1471d0765)" />
     <path d="M4.875,7.7a1.339,1.339,0,0,1,1.27-1.4h5.816a1.34,1.34,0,0,1,1.27,1.4h0a1.34,1.34,0,0,1-1.27,1.4H6.145a1.339,1.339,0,0,1-1.27-1.4Z" fill="#003067" />
