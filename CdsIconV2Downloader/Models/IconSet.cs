@@ -4,8 +4,8 @@ namespace CdsIconV2Downloader.Models
     {
         public string libraryKey { get; set; }
         public MasterDownloadMetadata masterDownloadMetadata { get; set; }
-        public CollectionDownloadMetadata[] collectionDownloadMetadata { get; set; }
-        public CollectionMetadata[] collectionMetadata { get; set; }
+        public CollectionDownloadMetadata[] collectionsDownloadMetadata { get; set; }
+        public CollectionMetadata[] collectionsMetadata { get; set; }
         public string primaryFont { get; set; }
         public string name { get; set; }
         public string iconType { get; set; }

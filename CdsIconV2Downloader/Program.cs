@@ -28,7 +28,7 @@ namespace CdsIconV2Downloader
 
             foreach (var iconSet in iconSets)
             {
-                foreach (var collection in iconSet.collectionMetadata.Where(x => x.iconCount > 0))
+                foreach (var collection in iconSet.collectionsMetadata.Where(x => x.iconCount > 0))
                 {
                     var qb = new QueryBuilder();
                     qb.Add("masterFontName", iconSet.name);
