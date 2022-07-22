@@ -7,11 +7,23 @@
       <stop offset="0.815" stop-color="#0078d4"/>
     </linearGradient>
   </defs>
-  <title>Icon-329-AppGroup</title>
   <g id="f18b5d86-430f-4653-9c0f-da3405ab6e83">
     <g>
       <circle cx="9" cy="9" r="8.5" fill="url(#a26c9420-22ea-437d-963a-d91a07052fe8)"/>
       <path id="ecfad4cd-858a-4086-9001-2b8defa8f20e" d="M7.776,10.632h2.448V13.08H7.776ZM4.92,7.368H7.368V4.92H5.262a.341.341,0,0,0-.342.342Zm.342,5.712H7.368V10.632H4.92v2.106a.341.341,0,0,0,.342.342ZM4.92,10.224H7.368V7.776H4.92Zm5.712,2.856h2.106a.341.341,0,0,0,.342-.342V10.632H10.632ZM7.776,10.224h2.448V7.776H7.776Zm2.856,0H13.08V7.776H10.632Zm0-5.3V7.368H13.08V5.262a.341.341,0,0,0-.342-.342ZM7.776,7.368h2.448V4.92H7.776Z" fill="#fff"/>
     </g>
   </g>
+    <metadata>  
+
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">  
+
+      <rdf:li>public:true</rdf:li>  
+
+      <rdf:li>sdk:false</rdf:li>  
+
+      <rdf:li>category: Compute</rdf:li>  
+
+   </rdf:RDF>  
+
+</metadata>
 </svg>

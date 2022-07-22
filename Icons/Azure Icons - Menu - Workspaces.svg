@@ -7,7 +7,6 @@
       <stop offset="0.815" stop-color="#0078d4"/>
     </linearGradient>
   </defs>
-  <title>Icon-330-Workspaces</title>
   <g id="aa161d90-a772-48f8-88d2-386c4212772e">
     <g>
       <circle cx="9" cy="9" r="8.5" fill="url(#f9a99d0c-9195-42e6-b829-35824fadf772)"/>
@@ -23,4 +22,17 @@
       </g>
     </g>
   </g>
+    <metadata>  
+
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">  
+
+      <rdf:li>public:true</rdf:li>  
+
+      <rdf:li>sdk:false</rdf:li>  
+
+      <rdf:li>category: Compute</rdf:li>  
+
+   </rdf:RDF>  
+
+</metadata>
 </svg>

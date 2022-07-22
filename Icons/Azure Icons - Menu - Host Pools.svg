@@ -7,7 +7,6 @@
       <stop offset="0.815" stop-color="#0078d4"/>
     </linearGradient>
   </defs>
-  <title>Icon-328-HostPools</title>
   <g id="f296cd5a-787e-4f7b-ae7d-f8e4c512e403">
     <g>
       <circle cx="9" cy="9" r="8.5" fill="url(#b7b52328-afea-4ae3-a11b-e21cf942d33d)"/>
@@ -28,4 +27,17 @@
       </g>
     </g>
   </g>
+    <metadata>  
+
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">  
+
+      <rdf:li>public:true</rdf:li>  
+
+      <rdf:li>sdk:false</rdf:li>  
+
+      <rdf:li>category: Compute</rdf:li>  
+
+   </rdf:RDF>  
+
+</metadata>
 </svg>

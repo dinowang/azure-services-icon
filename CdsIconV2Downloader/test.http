@@ -1,0 +1,7 @@
+###
+# @name listing
+#
+GET https://iconcloud.design/api/iconlibraryfont/masterfontinfos
+
+###
+GET https://iconcloud.design/api/iconlibraryfont/masterfontinfos?$filter=
