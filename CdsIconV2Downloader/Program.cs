@@ -35,8 +35,10 @@ namespace CdsIconV2Downloader
                     qb.Add("fontName", collection.name);
 
                     // Console.WriteLine(qb.ToQueryString());
+                    var url = $"https://iconcloud.design/api/iconlibraryfont/font{qb}";
+                    Console.WriteLine(url);
 
-                    result = await client.GetStringAsync($"https://iconcloud.design/api/iconlibraryfont/font" + qb.ToQueryString());
+                    result = await client.GetStringAsync(url);
 
                     var library = JsonSerializer.Deserialize<IconLibary>(result);
 
