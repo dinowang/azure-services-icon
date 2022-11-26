@@ -4,4 +4,8 @@
 GET https://iconcloud.design/api/iconlibraryfont/masterfontinfos
 
 ###
-GET https://iconcloud.design/api/iconlibraryfont/masterfontinfos?$filter=
+# @name get-font
+#
+GET https://iconcloud.design/api/iconlibraryfont/font
+    ?masterFontName={{listing.response.body.$[0].name}}
+    &fontName={{listing.response.body.$[0].collectionsMetadata[0].name}}
