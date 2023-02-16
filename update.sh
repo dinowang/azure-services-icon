@@ -2,5 +2,5 @@
 cd CdsIconV2Downloader
 dotnet run 
 
-cd AzurePublicServiceIconsDownloader
+cd ../AzurePublicServiceIconsDownloader
 dotnet run

@@ -1,5 +1,7 @@
 ﻿using System.IO.Compression;
 using System.Text.RegularExpressions;
+using HtmlAgilityPack;
+using HtmlAgilityPack.CssSelectors.NetCore;
 
 var outputBaseDir = Path.Combine("..", "AzurePublicServiceIcons");
 var outputZipFile = Path.Combine(".", "AzurePublicServiceIcons.zip");
@@ -12,7 +14,16 @@ Directory.CreateDirectory(outputBaseDir);
 if (!File.Exists(outputZipFile))
 {
     var client = new HttpClient();
-    using var result = await client.GetStreamAsync("https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V10.zip");
+
+    var html = await client.GetStringAsync("https://learn.microsoft.com/zh-tw/azure/architecture/icons/");
+
+    var doc = new HtmlDocument();
+    doc.LoadHtml(html);
+    var link = doc.QuerySelector("a[data-linktype='external']");
+    var url = link.GetAttributeValue("href", string.Empty);
+
+    // https://arch-center.azureedge.net/icons/Azure_Public_Service_Icons_V10.zip
+    using var result = await client.GetStreamAsync(url);
 
     using var outputStream = new FileStream(outputZipFile, FileMode.Create, FileAccess.Write);
     await result.CopyToAsync(outputStream);
