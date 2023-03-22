@@ -36,7 +36,7 @@
    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:li>public:true</rdf:li>
       <rdf:li>sdk:false</rdf:li>
-      <rdf:li>category:Networking</rdf:li>
+      <rdf:li>category: Other, Networking</rdf:li>
    </rdf:RDF>
 </metadata>
 </svg>
